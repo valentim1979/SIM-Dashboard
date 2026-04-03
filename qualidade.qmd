@@ -1,0 +1,58 @@
+---
+title: "Qualidade da Informação"
+---
+
+```{r setup, include=FALSE}
+ano  <- 2025
+base <- "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs"
+img  <- function(nome) {
+  arq <- file.path(base, paste0(nome, "_", ano, ".png"))
+  if (file.exists(arq)) knitr::include_graphics(arq)
+  else cat(paste0("Arquivo não encontrado: ", arq))
+}
+```
+
+Avaliação da qualidade dos registros do SIM na 15ª RS, considerando completude dos campos obrigatórios, proporção de causas mal definidas e oportunidade de envio das Declarações de Óbito.
+
+---
+
+## Completude dos campos
+
+A completude mede a proporção de registros com cada campo devidamente preenchido — excluindo valores em branco e código 9 (ignorado). A meta de referência é ≥ 95% para campos obrigatórios (RIPSA).
+
+```{r completude}
+img("g11_completude")
+```
+
+::: {.callout-tip}
+**Referências de qualidade (RIPSA):**
+
+- **≥ 95%** — adequado
+- **80–94%** — regular, requer atenção
+- **< 80%** — inadequado, requer intervenção imediata
+:::
+
+---
+
+## Causas mal definidas
+
+```{r maldefinidas}
+library(openxlsx)
+arq <- file.path(base, paste0("indicadores_sim_15rs_", ano, ".xlsx"))
+if (file.exists(arq)) {
+  res <- read.xlsx(arq, sheet = "Resumo — totais", startRow = 3)
+  # Linha de causas mal definidas
+  linha <- res[grepl("mal definida", res[[1]], ignore.case = TRUE), ]
+  if (nrow(linha) > 0) {
+    cat(paste0(
+      "**Proporção de óbitos com causa mal definida (R00–R99):** ",
+      linha[[2]], "%\n\n",
+      "Meta de referência: < 10% (RIPSA/SVS)"
+    ))
+  }
+}
+```
+
+::: {.callout-note}
+Causas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99 — sintomas, sinais e achados anormais). Proporções elevadas indicam falhas no processo de certificação médica e demandam qualificação dos profissionais atestantes.
+:::

@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SIM — 15ª RS Maringá"
+  description: "Indicadores de Mortalidade | 15ª Regional de Saúde | Maringá/PR"
+  favicon: assets/favicon.png
+  page-footer:
+    left: "Seção de Vigilância Epidemiológica — SCVGE | 15ª RS Maringá/PR"
+    right: "Fonte: SIM/DATASUS | Elaboração: SCVGE"
+
+  navbar:
+    background: "#004561"
+    foreground: "white"
+    logo: assets/logo.png
+    logo-alt: "15ª RS Maringá"
+    title: false
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Perfil"
+        href: demografico.qmd
+      - text: "Causas"
+        href: causas.qmd
+      - text: "Assistência"
+        href: assistencia.qmd
+      - text: "Municípios"
+        href: municipios.qmd
+      - text: "Suicídio"
+        href: suicidio.qmd
+      - text: "Qualidade"
+        href: qualidade.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: assets/custom.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Nesta página"
+    number-sections: false
+    smooth-scroll: true
+    fig-align: center
+    fig-width: 10
+    fig-height: 6
+    code-fold: false
+    echo: false
+    warning: false
+    message: false
+
+execute:
+  freeze: true

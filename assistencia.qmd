@@ -1,0 +1,41 @@
+---
+title: "Assistência e Local de Ocorrência"
+---
+
+```{r setup, include=FALSE}
+ano  <- 2025
+base <- "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs"
+img  <- function(nome) {
+  arq <- file.path(base, paste0(nome, "_", ano, ".png"))
+  if (file.exists(arq)) knitr::include_graphics(arq)
+  else cat(paste0("Arquivo não encontrado: ", arq))
+}
+```
+
+Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito. Esses dados refletem o acesso aos serviços de saúde e a qualidade da certificação do óbito.
+
+---
+
+## Local de ocorrência do óbito
+
+```{r local}
+img("g7_local_ocorrencia")
+```
+
+::: {.callout-note}
+A proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde. Óbitos em via pública com causa mal definida demandam investigação.
+:::
+
+---
+
+## Tipo de atestante do óbito
+
+O tipo de atestante indica as condições em que o óbito foi certificado — pelo médico assistente, por substituto, pelo IML (mortes violentas) ou pelo SVO (mortes naturais sem assistência médica).
+
+```{r atestante}
+img("g8_atestante")
+```
+
+::: {.callout-note}
+Alta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito.
+:::

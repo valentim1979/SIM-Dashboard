@@ -1,0 +1,66 @@
+/* ── Paleta 15ª RS ────────────────────────────────────── */
+:root {
+  --rs-navy:  #004561;
+  --rs-steel: #5891AD;
+  --rs-teal:  #1C7685;
+  --rs-orange:#FF6F31;
+  --rs-gold:  #FFC000;
+}
+
+/* ── Navbar ───────────────────────────────────────────── */
+.navbar { border-bottom: 3px solid var(--rs-orange); }
+.navbar-brand { font-weight: 700; letter-spacing: .02em; }
+
+/* ── Títulos ──────────────────────────────────────────── */
+h1, h2, h3 { color: var(--rs-navy); }
+h1 { border-bottom: 3px solid var(--rs-orange); padding-bottom: .4rem; }
+h2 { border-left: 4px solid var(--rs-teal); padding-left: .6rem; }
+
+/* ── Callout / destaque ───────────────────────────────── */
+.callout-note   { border-left-color: var(--rs-teal)  !important; }
+.callout-tip    { border-left-color: var(--rs-orange) !important; }
+.callout-warning{ border-left-color: var(--rs-gold)  !important; }
+
+/* ── Cards de indicador ───────────────────────────────── */
+.card-indicador {
+  background: #f8f9fa;
+  border-left: 5px solid var(--rs-teal);
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+}
+.card-indicador .valor {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--rs-navy);
+  line-height: 1.1;
+}
+.card-indicador .descricao {
+  font-size: .9rem;
+  color: #555;
+  margin-top: .2rem;
+}
+
+/* ── Grid de cards ────────────────────────────────────── */
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+/* ── Imagens ──────────────────────────────────────────── */
+img { max-width: 100%; height: auto; border-radius: 6px; }
+
+/* ── Footer ───────────────────────────────────────────── */
+.page-footer {
+  background: var(--rs-navy);
+  color: #cde !important;
+  font-size: .82rem;
+  padding: .8rem 1.5rem;
+}
+.page-footer a { color: var(--rs-gold) !important; }
+
+/* ── TOC ──────────────────────────────────────────────── */
+#TOC a { color: var(--rs-teal); }
+#TOC a:hover { color: var(--rs-orange); }

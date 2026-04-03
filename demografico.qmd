@@ -1,0 +1,53 @@
+---
+title: "Perfil Demográfico dos Óbitos"
+---
+
+```{r setup, include=FALSE}
+ano  <- 2025
+base <- "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs"
+img  <- function(nome) {
+  arq <- file.path(base, paste0(nome, "_", ano, ".png"))
+  if (file.exists(arq)) knitr::include_graphics(arq)
+  else cat(paste0("Arquivo não encontrado: ", arq))
+}
+```
+
+Análise do perfil dos óbitos não fetais registrados na 15ª RS, segundo sexo, faixa etária, raça/cor e escolaridade. Os dados são provenientes do SIM/DATASUS, processados pela SCVGE.
+
+---
+
+## Pirâmide etária
+
+A pirâmide etária dos óbitos apresenta a distribuição por faixa etária segundo o sexo. Em populações com transição epidemiológica avançada, espera-se concentração nas faixas mais velhas.
+
+```{r piramide}
+img("piramide_etaria_obitos_15rs")
+```
+
+---
+
+## Distribuição por sexo
+
+```{r sexo}
+img("g1_sexo")
+```
+
+---
+
+## Distribuição por faixa etária
+
+```{r faixa}
+img("g2_faixa_etaria")
+```
+
+---
+
+## Distribuição por raça e cor
+
+```{r raca}
+img("g3_raca_cor")
+```
+
+::: {.callout-note}
+A variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito.
+:::
