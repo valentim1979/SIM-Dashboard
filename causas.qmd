@@ -2,25 +2,13 @@
 title: "Causas de Morte"
 ---
 
-```{r setup, include=FALSE}
-ano  <- 2025
-base <- "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs"
-img  <- function(nome) {
-  arq <- file.path(base, paste0(nome, "_", ano, ".png"))
-  if (file.exists(arq)) knitr::include_graphics(arq)
-  else cat(paste0("Arquivo não encontrado: ", arq))
-}
-```
-
-Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10. A causa básica é definida como a doença ou lesão que iniciou a cadeia de eventos mórbidos que levou ao óbito.
+Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10.
 
 ---
 
 ## Mortalidade proporcional por capítulo CID-10
 
-```{r capitulos}
-img("g4_capitulos_cid")
-```
+![](graficos/g4_capitulos_cid_2025.png)
 
 ---
 
@@ -28,17 +16,13 @@ img("g4_capitulos_cid")
 
 As 20 causas básicas de morte mais frequentes na 15ª RS, identificadas pelo código CID-10 de três dígitos.
 
-```{r top20}
-img("g5_top20_cids")
-```
+![](graficos/g5_top20_cids_2025.png)
 
 ---
 
 ## Causas externas por tipo de circunstância
 
-```{r externas}
-img("g6_causas_externas")
-```
+![](graficos/g6_causas_externas_2025.png)
 
 ::: {.callout-note}
 As causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo `CIRCOBITO` da Declaração de Óbito.

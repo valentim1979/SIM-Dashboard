@@ -4,35 +4,35 @@
     "href": "qualidade.html",
     "title": "Qualidade da Informação",
     "section": "",
-    "text": "Avaliação da qualidade dos registros do SIM na 15ª RS, considerando completude dos campos obrigatórios, proporção de causas mal definidas e oportunidade de envio das Declarações de Óbito."
+    "text": "Avaliação da qualidade dos registros do SIM na 15ª RS, considerando completude dos campos obrigatórios e proporção de causas mal definidas."
   },
   {
     "objectID": "qualidade.html#completude-dos-campos",
     "href": "qualidade.html#completude-dos-campos",
     "title": "Qualidade da Informação",
     "section": "Completude dos campos",
-    "text": "Completude dos campos\nA completude mede a proporção de registros com cada campo devidamente preenchido — excluindo valores em branco e código 9 (ignorado). A meta de referência é ≥ 95% para campos obrigatórios (RIPSA).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nReferências de qualidade (RIPSA):\n\n≥ 95% — adequado\n80–94% — regular, requer atenção\n&lt; 80% — inadequado, requer intervenção imediata"
+    "text": "Completude dos campos\nA completude mede a proporção de registros com cada campo devidamente preenchido. A meta de referência é ≥ 95% para campos obrigatórios (RIPSA).\n\n\n\n\n\n\n\nTip\n\n\n\nReferências de qualidade (RIPSA):\n\n≥ 95% — adequado\n80–94% — regular, requer atenção\n&lt; 80% — inadequado, requer intervenção"
   },
   {
     "objectID": "qualidade.html#causas-mal-definidas",
     "href": "qualidade.html#causas-mal-definidas",
     "title": "Qualidade da Informação",
     "section": "Causas mal definidas",
-    "text": "Causas mal definidas\n\n\n**Proporção de óbitos com causa mal definida (R00–R99):** 0.8%\n\nMeta de referência: &lt; 10% (RIPSA/SVS)\n\n\n\n\n\n\n\n\nNote\n\n\n\nCausas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99 — sintomas, sinais e achados anormais). Proporções elevadas indicam falhas no processo de certificação médica e demandam qualificação dos profissionais atestantes."
+    "text": "Causas mal definidas\nCausas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99). Proporções elevadas indicam falhas no processo de certificação médica.\n\n\n\n\n\n\nNote\n\n\n\nMeta de referência: &lt; 10% (RIPSA/SVS)"
   },
   {
     "objectID": "demografico.html",
     "href": "demografico.html",
     "title": "Perfil Demográfico dos Óbitos",
     "section": "",
-    "text": "Análise do perfil dos óbitos não fetais registrados na 15ª RS, segundo sexo, faixa etária, raça/cor e escolaridade. Os dados são provenientes do SIM/DATASUS, processados pela SCVGE."
+    "text": "Análise do perfil dos óbitos não fetais registrados na 15ª RS, segundo sexo, faixa etária, raça/cor e escolaridade."
   },
   {
     "objectID": "demografico.html#pirâmide-etária",
     "href": "demografico.html#pirâmide-etária",
     "title": "Perfil Demográfico dos Óbitos",
     "section": "Pirâmide etária",
-    "text": "Pirâmide etária\nA pirâmide etária dos óbitos apresenta a distribuição por faixa etária segundo o sexo. Em populações com transição epidemiológica avançada, espera-se concentração nas faixas mais velhas."
+    "text": "Pirâmide etária\nA pirâmide etária apresenta a distribuição por faixa etária segundo o sexo. Em populações com transição epidemiológica avançada, espera-se concentração nas faixas mais velhas."
   },
   {
     "objectID": "demografico.html#distribuição-por-sexo",
@@ -53,14 +53,14 @@
     "href": "demografico.html#distribuição-por-raça-e-cor",
     "title": "Perfil Demográfico dos Óbitos",
     "section": "Distribuição por raça e cor",
-    "text": "Distribuição por raça e cor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito."
+    "text": "Distribuição por raça e cor\n\n\n\n\n\n\n\nNote\n\n\n\nA variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito."
   },
   {
     "objectID": "causas.html",
     "href": "causas.html",
     "title": "Causas de Morte",
     "section": "",
-    "text": "Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10. A causa básica é definida como a doença ou lesão que iniciou a cadeia de eventos mórbidos que levou ao óbito."
+    "text": "Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10."
   },
   {
     "objectID": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
@@ -81,14 +81,14 @@
     "href": "causas.html#causas-externas-por-tipo-de-circunstância",
     "title": "Causas de Morte",
     "section": "Causas externas por tipo de circunstância",
-    "text": "Causas externas por tipo de circunstância\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo CIRCOBITO da Declaração de Óbito."
+    "text": "Causas externas por tipo de circunstância\n\n\n\n\n\n\n\nNote\n\n\n\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo CIRCOBITO da Declaração de Óbito."
   },
   {
     "objectID": "municipios.html",
     "href": "municipios.html",
     "title": "Municípios e Taxas de Mortalidade",
     "section": "",
-    "text": "Distribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A causa básica dominante é o grupo CID-10 com maior proporção de óbitos em cada município. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025."
+    "text": "Distribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025."
   },
   {
     "objectID": "municipios.html#mapa-causa-básica-dominante-por-município",
@@ -102,7 +102,7 @@
     "href": "municipios.html#taxa-bruta-de-mortalidade-por-município",
     "title": "Municípios e Taxas de Mortalidade",
     "section": "Taxa bruta de mortalidade por município",
-    "text": "Taxa bruta de mortalidade por município\nÓbitos não fetais por 100.000 habitantes. Diferenças entre municípios refletem tanto o perfil demográfico local quanto as condições de saúde e acesso a serviços."
+    "text": "Taxa bruta de mortalidade por município\nÓbitos não fetais por 100.000 habitantes."
   },
   {
     "objectID": "municipios.html#série-mensal-de-óbitos",
@@ -116,21 +116,21 @@
     "href": "assistencia.html",
     "title": "Assistência e Local de Ocorrência",
     "section": "",
-    "text": "Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito. Esses dados refletem o acesso aos serviços de saúde e a qualidade da certificação do óbito."
+    "text": "Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito."
   },
   {
     "objectID": "assistencia.html#local-de-ocorrência-do-óbito",
     "href": "assistencia.html#local-de-ocorrência-do-óbito",
     "title": "Assistência e Local de Ocorrência",
     "section": "Local de ocorrência do óbito",
-    "text": "Local de ocorrência do óbito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde. Óbitos em via pública com causa mal definida demandam investigação."
+    "text": "Local de ocorrência do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde."
   },
   {
     "objectID": "assistencia.html#tipo-de-atestante-do-óbito",
     "href": "assistencia.html#tipo-de-atestante-do-óbito",
     "title": "Assistência e Local de Ocorrência",
     "section": "Tipo de atestante do óbito",
-    "text": "Tipo de atestante do óbito\nO tipo de atestante indica as condições em que o óbito foi certificado — pelo médico assistente, por substituto, pelo IML (mortes violentas) ou pelo SVO (mortes naturais sem assistência médica).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito."
+    "text": "Tipo de atestante do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito."
   },
   {
     "objectID": "index.html",
@@ -172,7 +172,7 @@
     "href": "suicidio.html",
     "title": "Mortalidade por Suicídio",
     "section": "",
-    "text": "Warning\n\n\n\nAtenção: Este conteúdo trata de mortalidade por suicídio com finalidade exclusivamente epidemiológica e de vigilância em saúde. Dados produzidos pela SCVGE para subsidiar ações de prevenção na 15ª RS.\nSe você ou alguém que conhece está em sofrimento, o CVV (Centro de Valorização da Vida) atende 24h pelo telefone 188 ou em cvv.org.br.\nOs dados referem-se a óbitos classificados com causas básicas do grupo X60–X84 da CID-10 (lesões autoprovocadas intencionalmente), registrados no SIM/DATASUS para os municípios da 15ª RS."
+    "text": "Warning\n\n\n\nAtenção: Este conteúdo trata de mortalidade por suicídio com finalidade exclusivamente epidemiológica e de vigilância em saúde.\nSe você ou alguém que conhece está em sofrimento, o CVV (Centro de Valorização da Vida) atende 24h pelo telefone 188 ou em cvv.org.br.\nDados referentes a óbitos com causas do grupo X60–X84 da CID-10 (lesões autoprovocadas intencionalmente), registrados no SIM/DATASUS para os municípios da 15ª RS."
   },
   {
     "objectID": "suicidio.html#pirâmide-etária-dos-suicídios-por-sexo",
@@ -193,13 +193,13 @@
     "href": "suicidio.html#método-por-faixa-etária",
     "title": "Mortalidade por Suicídio",
     "section": "Método por faixa etária",
-    "text": "Método por faixa etária\nO mapa de calor apresenta a concentração de suicídios por combinação de faixa etária e método utilizado, evidenciando padrões que podem orientar estratégias de prevenção."
+    "text": "Método por faixa etária"
   },
   {
     "objectID": "suicidio.html#nota-metodológica",
     "href": "suicidio.html#nota-metodológica",
     "title": "Mortalidade por Suicídio",
     "section": "Nota metodológica",
-    "text": "Nota metodológica\nOs casos foram identificados a partir do código de causa básica (CAUSABAS) do arquivo DBC do SIM, filtrando os códigos X60 a X84 da CID-10. Em casos onde o campo CIRCOBITO (tipo de morte violenta) estava preenchido como suicídio (valor 2) sem correspondência no código da causa básica, o registro também foi incluído. Excluídos registros com sexo ignorado."
+    "text": "Nota metodológica\nOs casos foram identificados a partir do código de causa básica (CAUSABAS) do arquivo DBC do SIM, filtrando os códigos X60 a X84 da CID-10. Excluídos registros com sexo ignorado."
   }
 ]

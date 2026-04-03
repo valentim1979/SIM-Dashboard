@@ -47,4 +47,3 @@ bash publicar.sh "Atualização jan/2025"
 
 **Fonte dos dados:** SIM/DATASUS  
 **Elaboração:** SCVGE — 15ª RS Maringá/PR
-# SIM-Dashboard

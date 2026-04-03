@@ -8,7 +8,7 @@ ano <- 2025
 ```
 
 ::: {.callout-note}
-**Fonte dos dados:** SIM/DATASUS — arquivo `DOPR{{< meta ano >}}.dbc`  
+**Fonte dos dados:** SIM/DATASUS — arquivo `DOPR2025.dbc`  
 **Abrangência:** 30 municípios da 15ª RS (CIR 41015) — Maringá/PR  
 **Elaboração:** Seção de Vigilância Epidemiológica — SCVGE | 15ª RS
 :::
@@ -30,38 +30,9 @@ Os indicadores estão organizados em seis eixos temáticos:
 
 ---
 
-## Resumo dos indicadores
-
-```{r resumo}
-library(dplyr)
-library(knitr)
-
-# Lê o arquivo de resumo gerado pelo script principal
-arq <- file.path(
-  "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs",
-  paste0("indicadores_sim_15rs_", ano, ".xlsx")
-)
-
-if (file.exists(arq)) {
-  resumo <- openxlsx::read.xlsx(arq, sheet = "Resumo — totais", startRow = 3)
-  kable(resumo, col.names = c("Indicador", "Valor"),
-        format.args = list(big.mark = "."))
-} else {
-  cat("Execute o script indicadores_sim_15rs.R para gerar os dados.")
-}
-```
-
----
-
 ## Painel geral
 
-```{r painel}
-arq_png <- file.path(
-  "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs",
-  paste0("g00_painel_resumo_", ano, ".png")
-)
-if (file.exists(arq_png)) knitr::include_graphics(arq_png)
-```
+![](graficos/g00_painel_resumo_2025.png)
 
 ---
 
@@ -69,10 +40,4 @@ if (file.exists(arq_png)) knitr::include_graphics(arq_png)
 
 A 15ª Regional de Saúde de Maringá é composta por **30 municípios** do noroeste do Paraná, com sede em Maringá. A região integra o CIR 41015 e tem população estimada de aproximadamente 909 mil habitantes (IBGE, 2025).
 
-```{r mapa}
-arq_mapa <- file.path(
-  "/Users/valentimsalajunior/Desktop/R_SIM/SIM/outputs",
-  paste0("mapa_causabas_15rs_", ano, ".png")
-)
-if (file.exists(arq_mapa)) knitr::include_graphics(arq_mapa)
-```
+![](graficos/mapa_causabas_15rs_2025.png)
