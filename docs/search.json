@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "qualidade.html",
+    "href": "qualidade.html",
+    "title": "Qualidade da Informação",
+    "section": "",
+    "text": "Avaliação da qualidade dos registros do SIM na 15ª RS, considerando completude dos campos obrigatórios, proporção de causas mal definidas e oportunidade de envio das Declarações de Óbito."
+  },
+  {
+    "objectID": "qualidade.html#completude-dos-campos",
+    "href": "qualidade.html#completude-dos-campos",
+    "title": "Qualidade da Informação",
+    "section": "Completude dos campos",
+    "text": "Completude dos campos\nA completude mede a proporção de registros com cada campo devidamente preenchido — excluindo valores em branco e código 9 (ignorado). A meta de referência é ≥ 95% para campos obrigatórios (RIPSA).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nReferências de qualidade (RIPSA):\n\n≥ 95% — adequado\n80–94% — regular, requer atenção\n&lt; 80% — inadequado, requer intervenção imediata"
+  },
+  {
+    "objectID": "qualidade.html#causas-mal-definidas",
+    "href": "qualidade.html#causas-mal-definidas",
+    "title": "Qualidade da Informação",
+    "section": "Causas mal definidas",
+    "text": "Causas mal definidas\n\n\n**Proporção de óbitos com causa mal definida (R00–R99):** 0.8%\n\nMeta de referência: &lt; 10% (RIPSA/SVS)\n\n\n\n\n\n\n\n\nNote\n\n\n\nCausas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99 — sintomas, sinais e achados anormais). Proporções elevadas indicam falhas no processo de certificação médica e demandam qualificação dos profissionais atestantes."
+  },
+  {
+    "objectID": "demografico.html",
+    "href": "demografico.html",
+    "title": "Perfil Demográfico dos Óbitos",
+    "section": "",
+    "text": "Análise do perfil dos óbitos não fetais registrados na 15ª RS, segundo sexo, faixa etária, raça/cor e escolaridade. Os dados são provenientes do SIM/DATASUS, processados pela SCVGE."
+  },
+  {
+    "objectID": "demografico.html#pirâmide-etária",
+    "href": "demografico.html#pirâmide-etária",
+    "title": "Perfil Demográfico dos Óbitos",
+    "section": "Pirâmide etária",
+    "text": "Pirâmide etária\nA pirâmide etária dos óbitos apresenta a distribuição por faixa etária segundo o sexo. Em populações com transição epidemiológica avançada, espera-se concentração nas faixas mais velhas."
+  },
+  {
+    "objectID": "demografico.html#distribuição-por-sexo",
+    "href": "demografico.html#distribuição-por-sexo",
+    "title": "Perfil Demográfico dos Óbitos",
+    "section": "Distribuição por sexo",
+    "text": "Distribuição por sexo"
+  },
+  {
+    "objectID": "demografico.html#distribuição-por-faixa-etária",
+    "href": "demografico.html#distribuição-por-faixa-etária",
+    "title": "Perfil Demográfico dos Óbitos",
+    "section": "Distribuição por faixa etária",
+    "text": "Distribuição por faixa etária"
+  },
+  {
+    "objectID": "demografico.html#distribuição-por-raça-e-cor",
+    "href": "demografico.html#distribuição-por-raça-e-cor",
+    "title": "Perfil Demográfico dos Óbitos",
+    "section": "Distribuição por raça e cor",
+    "text": "Distribuição por raça e cor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito."
+  },
+  {
+    "objectID": "causas.html",
+    "href": "causas.html",
+    "title": "Causas de Morte",
+    "section": "",
+    "text": "Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10. A causa básica é definida como a doença ou lesão que iniciou a cadeia de eventos mórbidos que levou ao óbito."
+  },
+  {
+    "objectID": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
+    "href": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
+    "title": "Causas de Morte",
+    "section": "Mortalidade proporcional por capítulo CID-10",
+    "text": "Mortalidade proporcional por capítulo CID-10"
+  },
+  {
+    "objectID": "causas.html#top-20-causas-básicas",
+    "href": "causas.html#top-20-causas-básicas",
+    "title": "Causas de Morte",
+    "section": "Top 20 causas básicas",
+    "text": "Top 20 causas básicas\nAs 20 causas básicas de morte mais frequentes na 15ª RS, identificadas pelo código CID-10 de três dígitos."
+  },
+  {
+    "objectID": "causas.html#causas-externas-por-tipo-de-circunstância",
+    "href": "causas.html#causas-externas-por-tipo-de-circunstância",
+    "title": "Causas de Morte",
+    "section": "Causas externas por tipo de circunstância",
+    "text": "Causas externas por tipo de circunstância\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo CIRCOBITO da Declaração de Óbito."
+  },
+  {
+    "objectID": "municipios.html",
+    "href": "municipios.html",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "",
+    "text": "Distribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A causa básica dominante é o grupo CID-10 com maior proporção de óbitos em cada município. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025."
+  },
+  {
+    "objectID": "municipios.html#mapa-causa-básica-dominante-por-município",
+    "href": "municipios.html#mapa-causa-básica-dominante-por-município",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Mapa: causa básica dominante por município",
+    "text": "Mapa: causa básica dominante por município"
+  },
+  {
+    "objectID": "municipios.html#taxa-bruta-de-mortalidade-por-município",
+    "href": "municipios.html#taxa-bruta-de-mortalidade-por-município",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Taxa bruta de mortalidade por município",
+    "text": "Taxa bruta de mortalidade por município\nÓbitos não fetais por 100.000 habitantes. Diferenças entre municípios refletem tanto o perfil demográfico local quanto as condições de saúde e acesso a serviços."
+  },
+  {
+    "objectID": "municipios.html#série-mensal-de-óbitos",
+    "href": "municipios.html#série-mensal-de-óbitos",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Série mensal de óbitos",
+    "text": "Série mensal de óbitos"
+  },
+  {
+    "objectID": "assistencia.html",
+    "href": "assistencia.html",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "",
+    "text": "Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito. Esses dados refletem o acesso aos serviços de saúde e a qualidade da certificação do óbito."
+  },
+  {
+    "objectID": "assistencia.html#local-de-ocorrência-do-óbito",
+    "href": "assistencia.html#local-de-ocorrência-do-óbito",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "Local de ocorrência do óbito",
+    "text": "Local de ocorrência do óbito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde. Óbitos em via pública com causa mal definida demandam investigação."
+  },
+  {
+    "objectID": "assistencia.html#tipo-de-atestante-do-óbito",
+    "href": "assistencia.html#tipo-de-atestante-do-óbito",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "Tipo de atestante do óbito",
+    "text": "Tipo de atestante do óbito\nO tipo de atestante indica as condições em que o óbito foi certificado — pelo médico assistente, por substituto, pelo IML (mortes violentas) ou pelo SVO (mortes naturais sem assistência médica).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mortalidade — 15ª Regional de Saúde",
+    "section": "",
+    "text": "Note\n\n\n\nFonte dos dados: SIM/DATASUS — arquivo DOPR?meta:ano.dbc\nAbrangência: 30 municípios da 15ª RS (CIR 41015) — Maringá/PR\nElaboração: Seção de Vigilância Epidemiológica — SCVGE | 15ª RS"
+  },
+  {
+    "objectID": "index.html#sobre-este-painel",
+    "href": "index.html#sobre-este-painel",
+    "title": "Mortalidade — 15ª Regional de Saúde",
+    "section": "Sobre este painel",
+    "text": "Sobre este painel\nEste painel apresenta os indicadores de mortalidade da 15ª Regional de Saúde de Maringá, produzidos a partir dos dados do Sistema de Informações sobre Mortalidade (SIM/DATASUS). Os dados são processados e atualizados pela Seção de Vigilância Epidemiológica da 15ª RS (SCVGE).\nOs indicadores estão organizados em seis eixos temáticos:\n\n\n\nEixo\nConteúdo\n\n\n\n\nPerfil demográfico\nSexo, faixa etária, raça/cor e escolaridade\n\n\nCausas de morte\nCapítulos CID-10, top causas, causas externas e evitáveis\n\n\nAssistência e local\nLocal de ocorrência e tipo de atestante\n\n\nMunicípios e taxas\nCausa dominante, taxa bruta e mapa coroplético\n\n\nSuicídio\nMétodo, faixa etária e sexo\n\n\nQualidade\nCompletude dos campos e oportunidade de envio"
+  },
+  {
+    "objectID": "index.html#resumo-dos-indicadores",
+    "href": "index.html#resumo-dos-indicadores",
+    "title": "Mortalidade — 15ª Regional de Saúde",
+    "section": "Resumo dos indicadores",
+    "text": "Resumo dos indicadores\n\n\n\n\n\nIndicador\nValor\n\n\n\n\nTotal de registros no arquivo\n75.048.0\n\n\nRegistros da 15ª RS (todos)\n5.155.0\n\n\nÓbitos não fetais c/ causa válida\n5.099.0\n\n\nÓbitos fetais\n56.0\n\n\nProporção causas mal definidas (%)\n0.8\n\n\nProporção causas evitáveis (%)\n29.2"
+  },
+  {
+    "objectID": "index.html#painel-geral",
+    "href": "index.html#painel-geral",
+    "title": "Mortalidade — 15ª Regional de Saúde",
+    "section": "Painel geral",
+    "text": "Painel geral"
+  },
+  {
+    "objectID": "index.html#municípios-da-15ª-rs",
+    "href": "index.html#municípios-da-15ª-rs",
+    "title": "Mortalidade — 15ª Regional de Saúde",
+    "section": "Municípios da 15ª RS",
+    "text": "Municípios da 15ª RS\nA 15ª Regional de Saúde de Maringá é composta por 30 municípios do noroeste do Paraná, com sede em Maringá. A região integra o CIR 41015 e tem população estimada de aproximadamente 909 mil habitantes (IBGE, 2025)."
+  },
+  {
+    "objectID": "suicidio.html",
+    "href": "suicidio.html",
+    "title": "Mortalidade por Suicídio",
+    "section": "",
+    "text": "Warning\n\n\n\nAtenção: Este conteúdo trata de mortalidade por suicídio com finalidade exclusivamente epidemiológica e de vigilância em saúde. Dados produzidos pela SCVGE para subsidiar ações de prevenção na 15ª RS.\nSe você ou alguém que conhece está em sofrimento, o CVV (Centro de Valorização da Vida) atende 24h pelo telefone 188 ou em cvv.org.br.\nOs dados referem-se a óbitos classificados com causas básicas do grupo X60–X84 da CID-10 (lesões autoprovocadas intencionalmente), registrados no SIM/DATASUS para os municípios da 15ª RS."
+  },
+  {
+    "objectID": "suicidio.html#pirâmide-etária-dos-suicídios-por-sexo",
+    "href": "suicidio.html#pirâmide-etária-dos-suicídios-por-sexo",
+    "title": "Mortalidade por Suicídio",
+    "section": "Pirâmide etária dos suicídios por sexo",
+    "text": "Pirâmide etária dos suicídios por sexo"
+  },
+  {
+    "objectID": "suicidio.html#método-utilizado-por-sexo",
+    "href": "suicidio.html#método-utilizado-por-sexo",
+    "title": "Mortalidade por Suicídio",
+    "section": "Método utilizado por sexo",
+    "text": "Método utilizado por sexo"
+  },
+  {
+    "objectID": "suicidio.html#método-por-faixa-etária",
+    "href": "suicidio.html#método-por-faixa-etária",
+    "title": "Mortalidade por Suicídio",
+    "section": "Método por faixa etária",
+    "text": "Método por faixa etária\nO mapa de calor apresenta a concentração de suicídios por combinação de faixa etária e método utilizado, evidenciando padrões que podem orientar estratégias de prevenção."
+  },
+  {
+    "objectID": "suicidio.html#nota-metodológica",
+    "href": "suicidio.html#nota-metodológica",
+    "title": "Mortalidade por Suicídio",
+    "section": "Nota metodológica",
+    "text": "Nota metodológica\nOs casos foram identificados a partir do código de causa básica (CAUSABAS) do arquivo DBC do SIM, filtrando os códigos X60 a X84 da CID-10. Em casos onde o campo CIRCOBITO (tipo de morte violenta) estava preenchido como suicídio (valor 2) sem correspondência no código da causa básica, o registro também foi incluído. Excluídos registros com sexo ignorado."
+  }
+]

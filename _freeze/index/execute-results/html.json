@@ -1,0 +1,15 @@
+{
+  "hash": "0995d1d127d3522a028e78f60580e68b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mortalidade — 15ª Regional de Saúde\"\nsubtitle: \"Indicadores do Sistema de Informações sobre Mortalidade (SIM/DATASUS)\"\n---\n\n\n\n::: {.callout-note}\n**Fonte dos dados:** SIM/DATASUS — arquivo `DOPR{{< meta ano >}}.dbc`  \n**Abrangência:** 30 municípios da 15ª RS (CIR 41015) — Maringá/PR  \n**Elaboração:** Seção de Vigilância Epidemiológica — SCVGE | 15ª RS\n:::\n\n## Sobre este painel\n\nEste painel apresenta os indicadores de mortalidade da **15ª Regional de Saúde de Maringá**, produzidos a partir dos dados do Sistema de Informações sobre Mortalidade (SIM/DATASUS). Os dados são processados e atualizados pela Seção de Vigilância Epidemiológica da 15ª RS (SCVGE).\n\nOs indicadores estão organizados em seis eixos temáticos:\n\n| Eixo | Conteúdo |\n|---|---|\n| [Perfil demográfico](demografico.qmd) | Sexo, faixa etária, raça/cor e escolaridade |\n| [Causas de morte](causas.qmd) | Capítulos CID-10, top causas, causas externas e evitáveis |\n| [Assistência e local](assistencia.qmd) | Local de ocorrência e tipo de atestante |\n| [Municípios e taxas](municipios.qmd) | Causa dominante, taxa bruta e mapa coroplético |\n| [Suicídio](suicidio.qmd) | Método, faixa etária e sexo |\n| [Qualidade](qualidade.qmd) | Completude dos campos e oportunidade de envio |\n\n---\n\n## Resumo dos indicadores\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n\n|Indicador                          |    Valor|\n|:----------------------------------|--------:|\n|Total de registros no arquivo      | 75.048.0|\n|Registros da 15ª RS (todos)        |  5.155.0|\n|Óbitos não fetais c/ causa válida  |  5.099.0|\n|Óbitos fetais                      |     56.0|\n|Proporção causas mal definidas (%) |      0.8|\n|Proporção causas evitáveis (%)     |     29.2|\n\n\n:::\n:::\n\n\n---\n\n## Painel geral\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g00_painel_resumo_2025.png){width=1800}\n:::\n:::\n\n\n---\n\n## Municípios da 15ª RS\n\nA 15ª Regional de Saúde de Maringá é composta por **30 municípios** do noroeste do Paraná, com sede em Maringá. A região integra o CIR 41015 e tem população estimada de aproximadamente 909 mil habitantes (IBGE, 2025).\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/mapa_causabas_15rs_2025.png){width=1600}\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "b3fece10b9265a9d26894048b4934b2b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Perfil Demográfico dos Óbitos\"\n---\n\n\n\nAnálise do perfil dos óbitos não fetais registrados na 15ª RS, segundo sexo, faixa etária, raça/cor e escolaridade. Os dados são provenientes do SIM/DATASUS, processados pela SCVGE.\n\n---\n\n## Pirâmide etária\n\nA pirâmide etária dos óbitos apresenta a distribuição por faixa etária segundo o sexo. Em populações com transição epidemiológica avançada, espera-se concentração nas faixas mais velhas.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/piramide_etaria_obitos_15rs_2025.png){width=1200}\n:::\n:::\n\n\n---\n\n## Distribuição por sexo\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g1_sexo_2025.png){width=700}\n:::\n:::\n\n\n---\n\n## Distribuição por faixa etária\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g2_faixa_etaria_2025.png){width=1000}\n:::\n:::\n\n\n---\n\n## Distribuição por raça e cor\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g3_raca_cor_2025.png){width=1000}\n:::\n:::\n\n\n::: {.callout-note}\nA variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

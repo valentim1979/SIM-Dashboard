@@ -1,0 +1,15 @@
+{
+  "hash": "8ee51108d64ecac329995808e3cbdcba",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mortalidade por Suicídio\"\n---\n\n\n\n::: {.callout-warning}\n**Atenção:** Este conteúdo trata de mortalidade por suicídio com finalidade exclusivamente epidemiológica e de vigilância em saúde. Dados produzidos pela SCVGE para subsidiar ações de prevenção na 15ª RS.\n\nSe você ou alguém que conhece está em sofrimento, o **CVV (Centro de Valorização da Vida)** atende 24h pelo telefone **188** ou em [cvv.org.br](https://cvv.org.br).\n:::\n\nOs dados referem-se a óbitos classificados com causas básicas do grupo **X60–X84** da CID-10 (lesões autoprovocadas intencionalmente), registrados no SIM/DATASUS para os municípios da 15ª RS.\n\n---\n\n## Pirâmide etária dos suicídios por sexo\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/suicidio_g1_piramide_2025.png){width=1200}\n:::\n:::\n\n\n---\n\n## Método utilizado por sexo\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/suicidio_g2_metodo_sexo_2025.png){width=1200}\n:::\n:::\n\n\n---\n\n## Método por faixa etária\n\nO mapa de calor apresenta a concentração de suicídios por combinação de faixa etária e método utilizado, evidenciando padrões que podem orientar estratégias de prevenção.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/suicidio_g3_calor_2025.png){width=1400}\n:::\n:::\n\n\n---\n\n## Nota metodológica\n\nOs casos foram identificados a partir do código de causa básica (`CAUSABAS`) do arquivo DBC do SIM, filtrando os códigos X60 a X84 da CID-10. Em casos onde o campo `CIRCOBITO` (tipo de morte violenta) estava preenchido como suicídio (valor 2) sem correspondência no código da causa básica, o registro também foi incluído. Excluídos registros com sexo ignorado.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

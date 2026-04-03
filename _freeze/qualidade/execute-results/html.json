@@ -1,0 +1,15 @@
+{
+  "hash": "07b8dc046b06a91e9f56a4be278e7101",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Qualidade da Informação\"\n---\n\n\n\nAvaliação da qualidade dos registros do SIM na 15ª RS, considerando completude dos campos obrigatórios, proporção de causas mal definidas e oportunidade de envio das Declarações de Óbito.\n\n---\n\n## Completude dos campos\n\nA completude mede a proporção de registros com cada campo devidamente preenchido — excluindo valores em branco e código 9 (ignorado). A meta de referência é ≥ 95% para campos obrigatórios (RIPSA).\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g11_completude_2025.png){width=1100}\n:::\n:::\n\n\n::: {.callout-tip}\n**Referências de qualidade (RIPSA):**\n\n- **≥ 95%** — adequado\n- **80–94%** — regular, requer atenção\n- **< 80%** — inadequado, requer intervenção imediata\n:::\n\n---\n\n## Causas mal definidas\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n**Proporção de óbitos com causa mal definida (R00–R99):** 0.8%\n\nMeta de referência: < 10% (RIPSA/SVS)\n```\n\n\n:::\n:::\n\n\n::: {.callout-note}\nCausas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99 — sintomas, sinais e achados anormais). Proporções elevadas indicam falhas no processo de certificação médica e demandam qualificação dos profissionais atestantes.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

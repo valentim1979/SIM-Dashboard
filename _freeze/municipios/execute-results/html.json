@@ -1,0 +1,15 @@
+{
+  "hash": "1c16f02e03108434a7e95e95b7b7bafb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Municípios e Taxas de Mortalidade\"\n---\n\n\n\nDistribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A causa básica dominante é o grupo CID-10 com maior proporção de óbitos em cada município. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025.\n\n---\n\n## Mapa: causa básica dominante por município\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/mapa_causabas_15rs_2025.png){width=1600}\n:::\n:::\n\n\n---\n\n## Taxa bruta de mortalidade por município\n\nÓbitos não fetais por 100.000 habitantes. Diferenças entre municípios refletem tanto o perfil demográfico local quanto as condições de saúde e acesso a serviços.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g10_taxa_municipios_2025.png){width=1200}\n:::\n:::\n\n\n---\n\n## Série mensal de óbitos\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g9_serie_mensal_2025.png){width=1200}\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

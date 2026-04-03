@@ -1,0 +1,15 @@
+{
+  "hash": "4f017b0cfe99d2cf873b8ede5100316d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Causas de Morte\"\n---\n\n\n\nAnálise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10. A causa básica é definida como a doença ou lesão que iniciou a cadeia de eventos mórbidos que levou ao óbito.\n\n---\n\n## Mortalidade proporcional por capítulo CID-10\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g4_capitulos_cid_2025.png){width=1300}\n:::\n:::\n\n\n---\n\n## Top 20 causas básicas\n\nAs 20 causas básicas de morte mais frequentes na 15ª RS, identificadas pelo código CID-10 de três dígitos.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g5_top20_cids_2025.png){width=1400}\n:::\n:::\n\n\n---\n\n## Causas externas por tipo de circunstância\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g6_causas_externas_2025.png){width=1000}\n:::\n:::\n\n\n::: {.callout-note}\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo `CIRCOBITO` da Declaração de Óbito.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f87d3b8b3a9388dd94a76ad61a53b94c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Assistência e Local de Ocorrência\"\n---\n\n\n\nIndicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito. Esses dados refletem o acesso aos serviços de saúde e a qualidade da certificação do óbito.\n\n---\n\n## Local de ocorrência do óbito\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g7_local_ocorrencia_2025.png){width=1000}\n:::\n:::\n\n\n::: {.callout-note}\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde. Óbitos em via pública com causa mal definida demandam investigação.\n:::\n\n---\n\n## Tipo de atestante do óbito\n\nO tipo de atestante indica as condições em que o óbito foi certificado — pelo médico assistente, por substituto, pelo IML (mortes violentas) ou pelo SVO (mortes naturais sem assistência médica).\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../SIM/outputs/g8_atestante_2025.png){width=1000}\n:::\n:::\n\n\n::: {.callout-note}\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
