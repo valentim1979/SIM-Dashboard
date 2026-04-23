@@ -1,0 +1,45 @@
+---
+title: "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS"
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+    toc: true
+    toc-title: "Sumario"
+---
+
+## Autoavaliacao pre vs. pos
+
+![](output/g1_prepos.png){width=100%}
+
+## Satisfacao com o curso
+
+![](output/g2_satisfacao.png){width=100%}
+
+## Avaliacao da metodologia
+
+![](output/g3_metodologia.png){width=100%}
+
+## Percepcao de impacto
+
+![](output/g4_impacto.png){width=100%}
+
+## Net Promoter Score
+
+![](output/g5_nps.png){width=100%}
+
+## Aplicacao na rotina
+
+![](output/g6_aplicacao_rotina.png){width=100%}
+
+## Tipos de aplicacao
+
+![](output/g7_tipo_aplicacao.png){width=100%}
+
+## Dificuldades enfrentadas
+
+![](output/g8_dificuldades.png){width=100%}
+
+---
+
+*Gerado automaticamente em 2026-04-13 - Secao de Vigilancia Epidemiologica, 15a RS de Maringa.*
