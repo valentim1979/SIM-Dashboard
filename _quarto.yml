@@ -27,8 +27,6 @@ website:
         href: assistencia.qmd
       - text: "Municípios"
         href: municipios.qmd
-      - text: "Suicídio"
-        href: suicidio.qmd
       - text: "Qualidade"
         href: qualidade.qmd
 

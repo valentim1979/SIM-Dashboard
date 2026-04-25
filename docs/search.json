@@ -21,223 +21,6 @@
     "text": "Causas mal definidas\nCausas mal definidas correspondem aos óbitos com causa básica classificada no Capítulo XVIII da CID-10 (R00–R99). Proporções elevadas indicam falhas no processo de certificação médica.\n\n\n\n\n\n\nNote\n\n\n\nMeta de referência: &lt; 10% (RIPSA/SVS)"
   },
   {
-    "objectID": "vigilancia-epidemiologica/srag.html",
-    "href": "vigilancia-epidemiologica/srag.html",
-    "title": "Vigilância Universal — SRAG",
-    "section": "",
-    "text": "Tip\n\n\n\nAno de referência: 2026  |  Fonte: SIVEP-Gripe (módulo hospitalar)  |  Escopo: 30 municípios da 15ª Regional de Saúde\nNotificações de SRAG hospitalar na área de abrangência da 15ª RS. A Vigilância Universal abrange todos os hospitais e serviços de saúde — registra casos graves com necessidade de hospitalização, internações em UTI e óbitos."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/srag.html#série-temporal",
-    "href": "vigilancia-epidemiologica/srag.html#série-temporal",
-    "title": "Vigilância Universal — SRAG",
-    "section": "Série temporal",
-    "text": "Série temporal\n\nCurva comparativaNotificações semanaisConfirmados semanaisVariação semanal\n\n\n\n\n\nCurva epidêmica por semana epidemiológica — comparativo anual (2024–2026). A linha mais espessa representa o ano corrente.\n\n\n\n\n\n\n\nTotal de notificações de SRAG por semana epidemiológica — 2026.\n\n\n\n\n\n\n\nCasos confirmados de SRAG por semana epidemiológica — 2026.\n\n\n\n\n\n\n\nCasos de SRAG por semana epidemiológica com linha de média do período e variação percentual semana a semana. Verde = aumento em relação à semana anterior. Vermelho = redução."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/srag.html#distribuição-geográfica-gráficos",
-    "href": "vigilancia-epidemiologica/srag.html#distribuição-geográfica-gráficos",
-    "title": "Vigilância Universal — SRAG",
-    "section": "Distribuição geográfica — gráficos",
-    "text": "Distribuição geográfica — gráficos\n\nIncidência por municípioRegionais do Paraná\n\n\n\n\n\nTaxa de incidência de SRAG por município da 15ª RS — casos por 100 mil hab. (Pop. IBGE 2025).\n\n\n\n\n\n\n\nTotal de notificações de SRAG por Regional de Saúde — Paraná — 2026."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/srag.html#distribuição-geográfica-mapas",
-    "href": "vigilancia-epidemiologica/srag.html#distribuição-geográfica-mapas",
-    "title": "Vigilância Universal — SRAG",
-    "section": "Distribuição geográfica — mapas",
-    "text": "Distribuição geográfica — mapas\n\n\n\n\n\n\nNote\n\n\n\nMapas gerados a partir dos shapefiles do IBGE (municípios) e bases cartográficas municipais (bairros). Clique em qualquer mapa para ampliar.\n\n\n\nCasos por municípioIncidência por municípioBairros — MaringáBairros — Sarandi\n\n\n\n\n\nMapa de casos absolutos de SRAG por município da 15ª RS — 2026.\n\n\n\n\n\n\n\nMapa de incidência de SRAG por município da 15ª RS — casos por 100 mil hab. — 2026.\n\n\n\n\n\n\n\nDistribuição de SRAG por bairro — Maringá/PR — 2026. Nomes exibidos apenas para bairros com 5 ou mais casos.\n\n\n\n\n\n\n\nDistribuição de SRAG por bairro — Sarandi/PR — 2026. Nomes exibidos apenas para bairros com 5 ou mais casos."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/srag.html#perfil-dos-casos",
-    "href": "vigilancia-epidemiologica/srag.html#perfil-dos-casos",
-    "title": "Vigilância Universal — SRAG",
-    "section": "Perfil dos casos",
-    "text": "Perfil dos casos\n\nSexoClassificação finalFaixa etáriaPirâmide — NotificadosPirâmide — ÓbitosDesfechoRaça/CorEscolaridade\n\n\n\n\n\nDistribuição de notificações de SRAG por sexo — 15ª RS — 2026.\n\n\n\n\n\n\n\nClassificação final dos casos de SRAG notificados — 15ª RS — 2026.\n\n\n\n\n\n\n\nComparativo de faixa etária entre notificados e confirmados de SRAG — 15ª RS — 2026.\n\n\n\n\n\n\n\nPirâmide etária dos casos notificados de SRAG, por sexo — 15ª RS — 2026.\n\n\n\n\n\n\n\nPirâmide etária dos óbitos por SRAG, por sexo — 15ª RS — 2026.\n\n\n\n\n\n\n\nDistribuição dos casos de SRAG por evolução (desfecho) — cura, óbito e em investigação — 15ª RS — 2026.\n\n\n\n\n\n\n\nDistribuição de casos de SRAG por raça/cor autodeclarada — 15ª RS — 2026.\n\n\n\n\n\n\n\nDistribuição de casos de SRAG por escolaridade — maiores de 18 anos — 15ª RS — 2026."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/srag.html#circulação-viral",
-    "href": "vigilancia-epidemiologica/srag.html#circulação-viral",
-    "title": "Vigilância Universal — SRAG",
-    "section": "Circulação viral",
-    "text": "Circulação viral\n\nVírus detectados — totalTendência semanalTipos de Influenza\n\n\n\n\n\nAgentes virais identificados por RT-PCR nos casos de SRAG — 15ª RS — 2026.\n\n\n\n\n\n\n\nTendência semanal dos principais vírus respiratórios por RT-PCR — Influenza, Covid-19, VSR, Rinovírus, Adenovírus, Metapneumovírus — 15ª RS — 2026.\n\n\n\n\n\n\n\nTipos e linhagens de Influenza identificados por RT-PCR — 15ª RS — 2026.\n\n\n\n\n\n\nDados sujeitos a revisão conforme encerramento de casos. Fonte: SIVEP-Gripe."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html",
-    "href": "vigilancia-epidemiologica/sobre.html",
-    "title": "Sobre",
-    "section": "",
-    "text": "A 15ª Regional de Saúde, sediada em Maringá/PR, coordena ações de saúde em 30 municípios da região noroeste do Paraná, com população estimada de aproximadamente 958 mil habitantes (IBGE 2025)."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html#ª-regional-de-saúde-do-paraná",
-    "href": "vigilancia-epidemiologica/sobre.html#ª-regional-de-saúde-do-paraná",
-    "title": "Sobre",
-    "section": "",
-    "text": "A 15ª Regional de Saúde, sediada em Maringá/PR, coordena ações de saúde em 30 municípios da região noroeste do Paraná, com população estimada de aproximadamente 958 mil habitantes (IBGE 2025)."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html#vigilância-epidemiológica",
-    "href": "vigilancia-epidemiologica/sobre.html#vigilância-epidemiológica",
-    "title": "Sobre",
-    "section": "Vigilância Epidemiológica",
-    "text": "Vigilância Epidemiológica\nA Seção de Vigilância Epidemiológica (SCVGE) monitora agravos de notificação compulsória e produz informações para orientar as ações de controle e prevenção de doenças na regional."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html#sobre-este-boletim",
-    "href": "vigilancia-epidemiologica/sobre.html#sobre-este-boletim",
-    "title": "Sobre",
-    "section": "Sobre este boletim",
-    "text": "Sobre este boletim\nOs gráficos e mapas publicados aqui são gerados a partir de um script R unificado (SCRIPT_Unificado.R) que processa dados dos sistemas oficiais e exporta as imagens diretamente para a pasta graficos/ do projeto. O site é renderizado com Quarto e publicado via GitHub Pages.\nFluxo de atualização:\n\nExtração dos dados do SIVEP-Gripe\nExecução do script R (SCRIPT_Unificado.R)\nquarto render — geração do site\ngit push — publicação no GitHub Pages"
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html#sistemas-de-informação-utilizados",
-    "href": "vigilancia-epidemiologica/sobre.html#sistemas-de-informação-utilizados",
-    "title": "Sobre",
-    "section": "Sistemas de informação utilizados",
-    "text": "Sistemas de informação utilizados\n\nSIVEP-Gripe — Síndrome Respiratória Aguda Grave (SRAG hospitalar) e Síndrome Gripal sentinela"
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/sobre.html#equipe-técnica",
-    "href": "vigilancia-epidemiologica/sobre.html#equipe-técnica",
-    "title": "Sobre",
-    "section": "Equipe técnica",
-    "text": "Equipe técnica\nSCVGE — 15ª Regional de Saúde\nSandra Ap. Barbosa\nValentim Sala Junior\n\n15ª Regional de Saúde — Seção de Vigilância Epidemiológica — Maringá/PR"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#satisfacao-com-o-curso",
-    "href": "EpiSUS/boletim_episus.html#satisfacao-com-o-curso",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Satisfacao com o curso",
-    "text": "Satisfacao com o curso"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#avaliacao-da-metodologia",
-    "href": "EpiSUS/boletim_episus.html#avaliacao-da-metodologia",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Avaliacao da metodologia",
-    "text": "Avaliacao da metodologia"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#percepcao-de-impacto",
-    "href": "EpiSUS/boletim_episus.html#percepcao-de-impacto",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Percepcao de impacto",
-    "text": "Percepcao de impacto"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#net-promoter-score",
-    "href": "EpiSUS/boletim_episus.html#net-promoter-score",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Net Promoter Score",
-    "text": "Net Promoter Score"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#aplicacao-na-rotina",
-    "href": "EpiSUS/boletim_episus.html#aplicacao-na-rotina",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Aplicacao na rotina",
-    "text": "Aplicacao na rotina"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#tipos-de-aplicacao",
-    "href": "EpiSUS/boletim_episus.html#tipos-de-aplicacao",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Tipos de aplicacao",
-    "text": "Tipos de aplicacao"
-  },
-  {
-    "objectID": "EpiSUS/boletim_episus.html#dificuldades-enfrentadas",
-    "href": "EpiSUS/boletim_episus.html#dificuldades-enfrentadas",
-    "title": "Boletim de Avaliacao - EpiSUS-Fundamental 15a RS",
-    "section": "Dificuldades enfrentadas",
-    "text": "Dificuldades enfrentadas\n\n\nGerado automaticamente em 2026-04-13 - Secao de Vigilancia Epidemiologica, 15a RS de Maringa."
-  },
-  {
-    "objectID": "causas.html",
-    "href": "causas.html",
-    "title": "Causas de Morte",
-    "section": "",
-    "text": "Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10."
-  },
-  {
-    "objectID": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
-    "href": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
-    "title": "Causas de Morte",
-    "section": "Mortalidade proporcional por capítulo CID-10",
-    "text": "Mortalidade proporcional por capítulo CID-10"
-  },
-  {
-    "objectID": "causas.html#top-20-causas-básicas",
-    "href": "causas.html#top-20-causas-básicas",
-    "title": "Causas de Morte",
-    "section": "Top 20 causas básicas",
-    "text": "Top 20 causas básicas\nAs 20 causas básicas de morte mais frequentes na 15ª RS, identificadas pelo código CID-10 de três dígitos."
-  },
-  {
-    "objectID": "causas.html#causas-externas-por-tipo-de-circunstância",
-    "href": "causas.html#causas-externas-por-tipo-de-circunstância",
-    "title": "Causas de Morte",
-    "section": "Causas externas por tipo de circunstância",
-    "text": "Causas externas por tipo de circunstância\n\n\n\n\n\n\n\nNote\n\n\n\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo CIRCOBITO da Declaração de Óbito."
-  },
-  {
-    "objectID": "sivep_15rs/GIS/bairros_sarandi/Bairros_loteamentos.html",
-    "href": "sivep_15rs/GIS/bairros_sarandi/Bairros_loteamentos.html",
-    "title": "SIM — 15ª RS Maringá",
-    "section": "",
-    "text": "&lt;!DOCTYPE qgis PUBLIC ‘http://mrcc.com/qgis.dtd’ ‘SYSTEM’&gt;     \n\n\n                PROJCRS[“SIRGAS 2000 / UTM zone 22S”,BASEGEOGCRS[“SIRGAS 2000”,DATUM[“Sistema de Referencia Geocentrico para las AmericaS 2000”,ELLIPSOID[“GRS 1980”,6378137,298.257222101,LENGTHUNIT[“metre”,1]]],PRIMEM[“Greenwich”,0,ANGLEUNIT[“degree”,0.0174532925199433]],ID[“EPSG”,4674]],CONVERSION[“UTM zone 22S”,METHOD[“Transverse Mercator”,ID[“EPSG”,9807]],PARAMETER[“Latitude of natural origin”,0,ANGLEUNIT[“degree”,0.0174532925199433],ID[“EPSG”,8801]],PARAMETER[“Longitude of natural origin”,-51,ANGLEUNIT[“degree”,0.0174532925199433],ID[“EPSG”,8802]],PARAMETER[“Scale factor at natural origin”,0.9996,SCALEUNIT[“unity”,1],ID[“EPSG”,8805]],PARAMETER[“False easting”,500000,LENGTHUNIT[“metre”,1],ID[“EPSG”,8806]],PARAMETER[“False northing”,10000000,LENGTHUNIT[“metre”,1],ID[“EPSG”,8807]]],CS[Cartesian,2],AXIS[“(E)”,east,ORDER[1],LENGTHUNIT[“metre”,1]],AXIS[“(N)”,north,ORDER[2],LENGTHUNIT[“metre”,1]],USAGE[SCOPE[“Engineering survey, topographic mapping.”],AREA[“Brazil - between 54°W and 48°W, northern and southern hemispheres, onshore and offshore. In remainder of South America - between 54°W and 48°W, southern hemisphere, onshore and offshore.”],BBOX[-54.18,-54,7.04,-47.99]],ID[“EPSG”,31982]] +proj=utm +zone=22 +south +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs 2675 31982 EPSG:31982 SIRGAS 2000 / UTM zone 22S utm EPSG:7019 false"
-  },
-  {
-    "objectID": "municipios.html",
-    "href": "municipios.html",
-    "title": "Municípios e Taxas de Mortalidade",
-    "section": "",
-    "text": "Distribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025."
-  },
-  {
-    "objectID": "municipios.html#mapa-causa-básica-dominante-por-município",
-    "href": "municipios.html#mapa-causa-básica-dominante-por-município",
-    "title": "Municípios e Taxas de Mortalidade",
-    "section": "Mapa: causa básica dominante por município",
-    "text": "Mapa: causa básica dominante por município"
-  },
-  {
-    "objectID": "municipios.html#taxa-bruta-de-mortalidade-por-município",
-    "href": "municipios.html#taxa-bruta-de-mortalidade-por-município",
-    "title": "Municípios e Taxas de Mortalidade",
-    "section": "Taxa bruta de mortalidade por município",
-    "text": "Taxa bruta de mortalidade por município\nÓbitos não fetais por 100.000 habitantes."
-  },
-  {
-    "objectID": "municipios.html#série-mensal-de-óbitos",
-    "href": "municipios.html#série-mensal-de-óbitos",
-    "title": "Municípios e Taxas de Mortalidade",
-    "section": "Série mensal de óbitos",
-    "text": "Série mensal de óbitos"
-  },
-  {
-    "objectID": "assistencia.html",
-    "href": "assistencia.html",
-    "title": "Assistência e Local de Ocorrência",
-    "section": "",
-    "text": "Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito."
-  },
-  {
-    "objectID": "assistencia.html#local-de-ocorrência-do-óbito",
-    "href": "assistencia.html#local-de-ocorrência-do-óbito",
-    "title": "Assistência e Local de Ocorrência",
-    "section": "Local de ocorrência do óbito",
-    "text": "Local de ocorrência do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde."
-  },
-  {
-    "objectID": "assistencia.html#tipo-de-atestante-do-óbito",
-    "href": "assistencia.html#tipo-de-atestante-do-óbito",
-    "title": "Assistência e Local de Ocorrência",
-    "section": "Tipo de atestante do óbito",
-    "text": "Tipo de atestante do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mortalidade — 15ª Regional de Saúde",
@@ -273,6 +56,83 @@
     "text": "Municípios da 15ª RS\nA 15ª Regional de Saúde de Maringá é composta por 30 municípios do noroeste do Paraná, com sede em Maringá. A região integra o CIR 41015 e tem população estimada de aproximadamente 909 mil habitantes (IBGE, 2025)."
   },
   {
+    "objectID": "assistencia.html",
+    "href": "assistencia.html",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "",
+    "text": "Indicadores relacionados à assistência recebida pelo falecido e ao local onde ocorreu o óbito."
+  },
+  {
+    "objectID": "assistencia.html#local-de-ocorrência-do-óbito",
+    "href": "assistencia.html#local-de-ocorrência-do-óbito",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "Local de ocorrência do óbito",
+    "text": "Local de ocorrência do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nA proporção de óbitos ocorridos em domicílio e via pública pode indicar dificuldades de acesso aos serviços ou falhas no cuidado à saúde."
+  },
+  {
+    "objectID": "assistencia.html#tipo-de-atestante-do-óbito",
+    "href": "assistencia.html#tipo-de-atestante-do-óbito",
+    "title": "Assistência e Local de Ocorrência",
+    "section": "Tipo de atestante do óbito",
+    "text": "Tipo de atestante do óbito\n\n\n\n\n\n\n\nNote\n\n\n\nAlta proporção de óbitos atestados por IML e SVO pode indicar elevada mortalidade por causas externas e/ou subqualidade da assistência médica prestada antes do óbito."
+  },
+  {
+    "objectID": "municipios.html",
+    "href": "municipios.html",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "",
+    "text": "Distribuição geográfica dos óbitos entre os 30 municípios da 15ª RS. A taxa bruta é calculada com base nas estimativas populacionais IBGE 2025."
+  },
+  {
+    "objectID": "municipios.html#mapa-causa-básica-dominante-por-município",
+    "href": "municipios.html#mapa-causa-básica-dominante-por-município",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Mapa: causa básica dominante por município",
+    "text": "Mapa: causa básica dominante por município"
+  },
+  {
+    "objectID": "municipios.html#taxa-bruta-de-mortalidade-por-município",
+    "href": "municipios.html#taxa-bruta-de-mortalidade-por-município",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Taxa bruta de mortalidade por município",
+    "text": "Taxa bruta de mortalidade por município\nÓbitos não fetais por 100.000 habitantes."
+  },
+  {
+    "objectID": "municipios.html#série-mensal-de-óbitos",
+    "href": "municipios.html#série-mensal-de-óbitos",
+    "title": "Municípios e Taxas de Mortalidade",
+    "section": "Série mensal de óbitos",
+    "text": "Série mensal de óbitos"
+  },
+  {
+    "objectID": "causas.html",
+    "href": "causas.html",
+    "title": "Causas de Morte",
+    "section": "",
+    "text": "Análise das causas básicas de morte registradas na 15ª RS, classificadas segundo os capítulos da CID-10."
+  },
+  {
+    "objectID": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
+    "href": "causas.html#mortalidade-proporcional-por-capítulo-cid-10",
+    "title": "Causas de Morte",
+    "section": "Mortalidade proporcional por capítulo CID-10",
+    "text": "Mortalidade proporcional por capítulo CID-10"
+  },
+  {
+    "objectID": "causas.html#top-20-causas-básicas",
+    "href": "causas.html#top-20-causas-básicas",
+    "title": "Causas de Morte",
+    "section": "Top 20 causas básicas",
+    "text": "Top 20 causas básicas\nAs 20 causas básicas de morte mais frequentes na 15ª RS, identificadas pelo código CID-10 de três dígitos."
+  },
+  {
+    "objectID": "causas.html#causas-externas-por-tipo-de-circunstância",
+    "href": "causas.html#causas-externas-por-tipo-de-circunstância",
+    "title": "Causas de Morte",
+    "section": "Causas externas por tipo de circunstância",
+    "text": "Causas externas por tipo de circunstância\n\n\n\n\n\n\n\nNote\n\n\n\nAs causas externas englobam acidentes, violências e lesões autoprovocadas (capítulo XX da CID-10: V01–Y98). O tipo de circunstância é registrado no campo CIRCOBITO da Declaração de Óbito."
+  },
+  {
     "objectID": "demografico.html",
     "href": "demografico.html",
     "title": "Perfil Demográfico dos Óbitos",
@@ -306,61 +166,5 @@
     "title": "Perfil Demográfico dos Óbitos",
     "section": "Distribuição por raça e cor",
     "text": "Distribuição por raça e cor\n\n\n\n\n\n\n\nNote\n\n\n\nA variável raça/cor é autodeclarada pelo responsável pelas informações do falecido no momento do preenchimento da Declaração de Óbito."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/index.html",
-    "href": "vigilancia-epidemiologica/index.html",
-    "title": "Boletim Epidemiológico",
-    "section": "",
-    "text": "Fonte: SIVEP-Gripe  | \n    Ano de referência: 2026  | \n    Última atualização:\nDados produzidos pela equipe de Vigilância Epidemiológica da 15ª Regional de Saúde a partir dos sistemas oficiais de informação em saúde."
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/index.html#vigilância-universal-srag",
-    "href": "vigilancia-epidemiologica/index.html#vigilância-universal-srag",
-    "title": "Boletim Epidemiológico",
-    "section": "Vigilância Universal — SRAG",
-    "text": "Vigilância Universal — SRAG\nMonitora todos os casos hospitalizados de Síndrome Respiratória Aguda Grave na rede de saúde da 15ª RS.\n\n\n\nAbrangência\nTodos os hospitais da rede\n\n\nPerfil\nHospitalizados — casos graves, UTI, óbitos\n\n\nFonte\nSIVEP-Gripe (módulo hospitalar)\n\n\n\n→ Acessar dados de SRAG"
-  },
-  {
-    "objectID": "vigilancia-epidemiologica/index.html#área-de-abrangência-15ª-rs",
-    "href": "vigilancia-epidemiologica/index.html#área-de-abrangência-15ª-rs",
-    "title": "Boletim Epidemiológico",
-    "section": "Área de abrangência — 15ª RS",
-    "text": "Área de abrangência — 15ª RS\nA 15ª Regional de Saúde abrange 30 municípios da região de Maringá, com população estimada de ~958 mil habitantes (IBGE 2025).\nMunicípios-sede da regional: Maringá (429.660 hab.), Sarandi (128.106 hab.) e Paicandu (48.695 hab.) representam juntos cerca de 63% da população regional.\n\n15ª Regional de Saúde — Seção de Vigilância Epidemiológica — Maringá/PR"
-  },
-  {
-    "objectID": "suicidio.html",
-    "href": "suicidio.html",
-    "title": "Mortalidade por Suicídio",
-    "section": "",
-    "text": "Warning\n\n\n\nAtenção: Este conteúdo trata de mortalidade por suicídio com finalidade exclusivamente epidemiológica e de vigilância em saúde.\nSe você ou alguém que conhece está em sofrimento, o CVV (Centro de Valorização da Vida) atende 24h pelo telefone 188 ou em cvv.org.br.\nDados referentes a óbitos com causas do grupo X60–X84 da CID-10 (lesões autoprovocadas intencionalmente), registrados no SIM/DATASUS para os municípios da 15ª RS."
-  },
-  {
-    "objectID": "suicidio.html#pirâmide-etária-dos-suicídios-por-sexo",
-    "href": "suicidio.html#pirâmide-etária-dos-suicídios-por-sexo",
-    "title": "Mortalidade por Suicídio",
-    "section": "Pirâmide etária dos suicídios por sexo",
-    "text": "Pirâmide etária dos suicídios por sexo"
-  },
-  {
-    "objectID": "suicidio.html#método-utilizado-por-sexo",
-    "href": "suicidio.html#método-utilizado-por-sexo",
-    "title": "Mortalidade por Suicídio",
-    "section": "Método utilizado por sexo",
-    "text": "Método utilizado por sexo"
-  },
-  {
-    "objectID": "suicidio.html#método-por-faixa-etária",
-    "href": "suicidio.html#método-por-faixa-etária",
-    "title": "Mortalidade por Suicídio",
-    "section": "Método por faixa etária",
-    "text": "Método por faixa etária"
-  },
-  {
-    "objectID": "suicidio.html#nota-metodológica",
-    "href": "suicidio.html#nota-metodológica",
-    "title": "Mortalidade por Suicídio",
-    "section": "Nota metodológica",
-    "text": "Nota metodológica\nOs casos foram identificados a partir do código de causa básica (CAUSABAS) do arquivo DBC do SIM, filtrando os códigos X60 a X84 da CID-10. Excluídos registros com sexo ignorado."
   }
 ]
