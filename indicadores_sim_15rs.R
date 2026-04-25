@@ -28,17 +28,16 @@ library(openxlsx)
 # 0. CONFIGURAÇÕES
 # -----------------------------------------------------------------------------
 
-ANO  <- 2025   # ano principal de análise
-base <- "/Users/valentimsalajunior/Desktop/R_SIM"
+ANO  <- 2025
 
-caminho_dbc <- file.path(base, "SIM", "DBF", paste0("DOPR", ANO, ".dbc"))
-caminho_shp <- file.path(base, "GIS", "Pr_Municipios_2024", "PR_Municipios_2024.shp")
-dir_saida   <- file.path(base, "SIM", "outputs")
+caminho_dbc <- paste0("/Users/valentimsalajunior/Documents/DBF_SIM/DOPR", ANO, ".dbc")
+caminho_shp <- "/Users/valentimsalajunior/Documents/GIS/Pr_Municipios_2024/PR_Municipios_2024.shp"
+caminho_pop <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/ibge_cnv_pop.csv"
+dir_saida   <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/outputs"
+
 if (!dir.exists(dir_saida)) dir.create(dir_saida, recursive = TRUE)
 
-# Lookup CID-10 (gera objeto `cid10`)
-source(file.path(base, "SIM", "DBF", "cid10_lookup.R"))
-
+source("/Users/valentimsalajunior/Documents/SIM-Dashboard/cid10_lookup.R")
 # -----------------------------------------------------------------------------
 # 1. MUNICÍPIOS DA 15ª RS — lidos diretamente do CSV IBGE/DATASUS
 # -----------------------------------------------------------------------------
