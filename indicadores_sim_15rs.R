@@ -33,7 +33,7 @@ ANO  <- 2025
 caminho_dbc <- paste0("/Users/valentimsalajunior/Documents/DBF_SIM/DOPR", ANO, ".dbc")
 caminho_shp <- "/Users/valentimsalajunior/Documents/GIS/Pr_Municipios_2024/PR_Municipios_2024.shp"
 caminho_pop <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/ibge_cnv_pop.csv"
-dir_saida   <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/outputs"
+dir_saida <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/graficos"
 
 if (!dir.exists(dir_saida)) dir.create(dir_saida, recursive = TRUE)
 
