@@ -17,7 +17,7 @@
 # -----------------------------------------------------------------------------
 
 # Caminho para o arquivo CNV
-caminho_cnv <- "/Users/valentimsalajunior/Desktop/R_SIM/SIM/DBF/CID10_3D__.CNV"
+caminho_cnv <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/CID10_3D__.cnv"
 
 # Verificar existência — mova o arquivo para a pasta SIM/DBF se necessário
 if (!file.exists(caminho_cnv)) {

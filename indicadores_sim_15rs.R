@@ -38,11 +38,11 @@ dir_saida   <- "/Users/valentimsalajunior/Documents/SIM-Dashboard/outputs"
 if (!dir.exists(dir_saida)) dir.create(dir_saida, recursive = TRUE)
 
 source("/Users/valentimsalajunior/Documents/SIM-Dashboard/cid10_lookup.R")
+
 # -----------------------------------------------------------------------------
 # 1. MUNICÍPIOS DA 15ª RS — lidos diretamente do CSV IBGE/DATASUS
 # -----------------------------------------------------------------------------
 
-caminho_pop <- file.path(base, "SIM", "ibge_cnv_pop.csv")
 # Coloque o arquivo ibge_cnv_pop.csv em: R_SIM/SIM/
 
 # Leitura do CSV (encoding DATASUS = latin1, separador ;, cabeçalho em linha 6)
